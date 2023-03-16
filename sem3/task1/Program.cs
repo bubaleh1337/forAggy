@@ -10,6 +10,6 @@ int n = int.Parse(Console.ReadLine()!); // 5
 int a = 1;
 while (a <= n)
 {
-		Console.WriteLine(Math.Pow(a, 2));
-    a++;
+  Console.WriteLine(Math.Pow(a, 2));
+  a++;
 }
